@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\exploded-aar\ftc_sdk.lib\FtcCommon\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aefcdeffe5358aba767e05716938ae2b6adb5765">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-569ee3896b80a9904fa3c9a280d200bc3b59efd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\exploded-aar\ftc_sdk.lib\FtcCommon\unspecified\libs\HiTechnic.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9f8e7ba67db230675264faa102e0409aaa4f1167">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\HiTechnic-b3e2bb7e9112489f533918bc56bc114656bacb71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\exploded-aar\ftc_sdk.lib\FtcCommon\unspecified\libs\d2xx.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\d2xx-5a1c52c654af824d0f3895bceaa1f813385504ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\exploded-aar\ftc_sdk.lib\FtcCommon\unspecified\libs\WirelessP2p.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7c1d3f3b48626dcfcdcb4b3fdd177ee0cf70f3d0">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\pre-dexed\debug\WirelessP2p-c036fc5944e03cc8249715f1817d4cbe61599280.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\exploded-aar\ftc_sdk.lib\RobotCore\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c073a42f345942ea9747cb4373f313fc796cd02">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\pre-dexed\debug\classes-a363c2621ddb23260a483f5983f10b2d04bb50e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\exploded-aar\ftc_sdk.lib\RobotCore\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c073a42f345942ea9747cb4373f313fc796cd02">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-8a34de6f8bcf8ae11aec92d130e8727cd0701f0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\exploded-aar\ftc_sdk.lib\FtcCommon\unspecified\libs\WirelessP2p.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7c1d3f3b48626dcfcdcb4b3fdd177ee0cf70f3d0">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\WirelessP2p-3029e704ffdf5618d4d214126f18cd31c15f45c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\exploded-aar\ftc_sdk.lib\FtcCommon\unspecified\libs\HiTechnic.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9f8e7ba67db230675264faa102e0409aaa4f1167">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\pre-dexed\debug\HiTechnic-e2fe4485c472ef3508b409b8215ac77165f0e75a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\exploded-aar\ftc_sdk.lib\FtcCommon\unspecified\libs\d2xx.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\pre-dexed\debug\d2xx-dfe49fe30f51ec35bf26635af31e6e92408177a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\exploded-aar\ftc_sdk.lib\FtcCommon\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aefcdeffe5358aba767e05716938ae2b6adb5765">
+        <dex dex="C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcDriverStation\build\intermediates\pre-dexed\debug\classes-f63dafb541a10648a18adb7bbea9bc63f55635e3.jar" />
+    </item>
+
+</items>

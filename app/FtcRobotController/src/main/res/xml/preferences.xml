@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="pref_driver_station_mac"
+        android:title="@string/setting_driver_station_mac_title"
+        android:summary="@string/setting_driver_station_mac_summary"
+        android:dialogTitle="MAC Address"
+        android:dialogMessage="Provide the Driver Station MAC Address"   
+        android:defaultValue="NONE" />
+</PreferenceScreen>

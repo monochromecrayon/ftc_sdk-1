@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WirelessP2p">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/FtcCommon/libs/WirelessP2p.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

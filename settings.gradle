@@ -1,0 +1,9 @@
+//FTC
+
+//Robot External Libs, for FTC
+include (':lib:RobotCore')
+include (':lib:FtcCommon')
+
+//Robot External Apps, for FTC
+include (':app:FtcDriverStation')
+include (':app:FtcRobotController')

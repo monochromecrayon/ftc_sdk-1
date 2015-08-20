@@ -1,0 +1,6 @@
+C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\classes\debug
+C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-569ee3896b80a9904fa3c9a280d200bc3b59efd1.jar
+C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\WirelessP2p-3029e704ffdf5618d4d214126f18cd31c15f45c3.jar
+C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\HiTechnic-b3e2bb7e9112489f533918bc56bc114656bacb71.jar
+C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\d2xx-5a1c52c654af824d0f3895bceaa1f813385504ea.jar
+C:\Users\Kiran\Documents\AndroidWorkspace\ftc_sdk\app\FtcRobotController\build\intermediates\pre-dexed\debug\classes-8a34de6f8bcf8ae11aec92d130e8727cd0701f0f.jar
